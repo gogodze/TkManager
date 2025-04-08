@@ -1,7 +1,4 @@
-# CRUD Database reader on python
-## Description
- A project made for university
-
+# CRUD Database reader on python using tkinter
  ## Features
  <ul>
    <li>Login page</li>
